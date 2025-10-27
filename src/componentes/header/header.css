@@ -1,0 +1,18 @@
+header{
+  
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+header a{
+   
+    color: white;
+}
+header nav{
+   
+   margin-left: 10px;
+}
